@@ -7,3 +7,4 @@ models/
 data/
 *.log
 requirements-install.txt
+.env
